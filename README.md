@@ -52,7 +52,7 @@
 ## 💻💻💻 **COMO VISUALIZAR O PROJETO** 💻💻💻
 
 📥 Clone este repositório:
-`git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+`git clone https://github.com/vipzin16y/prj-pratico-2.git
 
 📁 Acesse a pasta do projeto:
 `cd nome-do-repositorio`
